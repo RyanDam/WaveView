@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wave_color_1">#77d2ff</color>
+    <color name="wave_color_2">#9bdeff</color>
+    <color name="wave_color_3">#ceefff</color>
+
+    <color name="wave_color_1_green">#77ffa9</color>
+    <color name="wave_color_2_green">#9bffbe</color>
+    <color name="wave_color_3_green">#ceffdf</color>
+
+    <color name="wave_color_1_pink">#ff77a9</color>
+    <color name="wave_color_2_pink">#ff9bc1</color>
+    <color name="wave_color_3_pink">#ffcede</color>
+</resources>
